@@ -1,0 +1,12 @@
+together 
+streamlit 
+pandas 
+matplotlib 
+seaborn 
+PyPDF2 
+python-docx 
+Pillow 
+python-dotenv 
+pyngrok 
+PyMuPDF 
+pytesseract
