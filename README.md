@@ -115,7 +115,7 @@ ngrok http 8501
 ---
 
 ##  Supported File Types
---------------------------------------------------
+
 |    File Type   |          Supported            |
 |----------------|-------------------------------|
 | `.pdf`         | Text extraction (PyMuPDF)     |
@@ -124,13 +124,11 @@ ngrok http 8501
 | `.csv`         | Pandas + Charts               |
 | `.xlsx`        | Pandas + Charts               |
 | `.jpg`, `.png` | OCR + Q&A                     |
---------------------------------------------------
 
 ---
 
 ##  Features Overview
 
--------------------------------------------------------------------
 |       Feature          |             Description                |
 |------------------------|----------------------------------------|
 | Text Extraction        | Extracts readable text from all files  |
@@ -138,7 +136,7 @@ ngrok http 8501
 | Visualizations         | Auto-generates relevant charts         |
 | LLM Analysis           | Summarization and custom Q&A           |
 | Modular & Extendable   | Swap backend model with ease           |
--------------------------------------------------------------------
+
 
 ---
 
